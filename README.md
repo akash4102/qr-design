@@ -16,7 +16,7 @@ this is just a simple QR code design
 ![](./screenshots/desktopss.png)
 
 #### mobile view
-![](./screenshots/mobiless.png.png)
+![](./screenshots/mobiless.png)
 
 ### Built with
 
